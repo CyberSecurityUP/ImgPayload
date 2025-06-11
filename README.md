@@ -110,4 +110,3 @@ Extraction methods depend on the injection technique:
 
 MIT License — Use responsibly.
 
-```
